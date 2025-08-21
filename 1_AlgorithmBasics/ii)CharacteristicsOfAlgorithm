@@ -1,0 +1,6 @@
+Following are the characteristics of an Algorithm:
+1. Input - An algorithm has 0 or more inputs
+2. Ouput - An algorithm must have atleast 1 output
+3. Definiteness - Only known values to be used and no imaginary or ambiguous values
+4. Finiteness - Must terminatre at some point
+5. Effectiveness - Effective statements only which have some role 
