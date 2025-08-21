@@ -2,16 +2,37 @@ We use frequency count method to analyse the time and space complexity of an alg
 
 """Example 1 - Single Loop"""
 
+
 Algorithm sum(A,n)
+
+
 {
+
+
     s=0;                     1
+
+ 
     for(i=0;i<n;i++)         n+1
+
+ 
     {
+
+ 
         s=s+A[i];            n
+
+  
     }
+
+ 
     return s;                1   
+
+ 
 }
+
+
 Time:
+
+
 Explanation: The constant statements are understood. The for loop has three statements:
 i=0, which executes for 1 unit of time,
 i<n, which will execute for n+1 times ; n with true values and n+1 th when false
